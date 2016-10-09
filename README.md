@@ -2,4 +2,4 @@
 Testowe
 
 
-Ze niby jakas zmiana
+Ze niby jakas zmiana!
